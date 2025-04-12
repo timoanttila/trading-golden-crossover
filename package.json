@@ -1,0 +1,25 @@
+{
+  "name": "golden-crossover",
+  "version": "1.0.0",
+  "description": "A TradingView indicator that detects golden and death crossovers using three moving averages.",
+  "homepage": "https://github.com/timoanttila/tradingview-golden-crossover",
+  "bugs": "https://github.com/timoanttila/tradingview-golden-crossover/issues",
+  "author": {
+    "name": "Timo Anttila",
+    "email": "moro@tuspe.com",
+    "url": "https://timoanttila.com"
+  },
+  "license": "GPL-3.0",
+  "keywords": [
+    "trading",
+    "tradingview",
+    "tradingview-script",
+    "tradingview-indicators",
+    "trading-strategies",
+    "trading-strategy",
+    "crossover",
+    "golden-cross",
+    "indicator",
+    "indicators"
+  ]
+}
